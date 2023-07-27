@@ -11,7 +11,29 @@
       "height": null,
       "font_size": null,
       "enabled": null
-    }
+    },
+	"97": {
+		"visualName": "SPACE",
+		"tag": null,
+		"line_break": null,
+		"margin_left": 85.0,
+		"margin_top": null,
+		"width": 50.0,
+		"height": null,
+		"font_size": null,
+		"enabled": null
+	},
+	"98": {
+        "visualName": "ALT Gr",
+        "tag": null,
+		"line_break": null,
+		"margin_left": 85.0,
+		"margin_top": null,
+		"width": null,
+		"height": null,
+		"font_size": null,
+		"enabled": null
+	}
   },
     "included_features": [
         "corsair_k70_pro_features.json"
